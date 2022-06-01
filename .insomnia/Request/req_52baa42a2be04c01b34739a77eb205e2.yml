@@ -1,0 +1,29 @@
+_id: req_52baa42a2be04c01b34739a77eb205e2
+type: Request
+parentId: wrk_c1645c4198554126a7c4d09c730a3e27
+modified: 1654083114090
+created: 1654082888794
+url: mockbin.org/echo
+name: a
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"a": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8ef1ab9a0cc44a3b83919f1a005ae7ea
+authentication: {}
+metaSortKey: -1654082888794
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
